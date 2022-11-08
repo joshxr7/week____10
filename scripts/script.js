@@ -16,3 +16,16 @@
 //     i++;
 // }
 
+// let input = "";
+// do {
+//     input = prompt("What is your name");
+    
+    
+
+//   } while (!isNaN(Number(input)));
+  
+//   console.log(input);
+
+//   alert("Welcome" + input);
+//   alert(`Welcome ${input}`);
+
